@@ -1,17 +1,28 @@
-<h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h1 align="center">Yusuf Emre Kaplan | AI-Native Frontend Engineer</h1>
+<h3 align="center">Building the next generation of video intelligence at Exovade.
+Specializing in Design Systems, React Architecture, and Agentic AI Workflows.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiaizen&label=Profile%20views&color=0e75b6&style=flat" alt="xiaizen" /> </p>
 
-- 🔭 I’m currently working on [Zanist](https://zanist.xyz/)
+🤖 The AI-Native Advantage
 
-- 🌱 I’m currently learning **Frameworks, Languages, UI, UX**
+I treat AI as a force multiplier. By orchestrating agentic coding workflows, I focus on high-level system architecture and complex UI logic, leveraging AI to automate implementation boilerplate. This allows for rapid iteration without sacrificing code quality or performance.
 
-- 👨‍💻 All of my projects are available at [https://linkedin/in/yusufemrekaplann](https://linkedin/in/yusufemrekaplann)
+🛠 Tech Stack & Expertise
 
-- 💬 Ask me about **Vite, Git, Tech**
+Frontend: React, TypeScript, Tailwind CSS, Storybook, Radix UI.
 
-- 📫 How to reach me **yk214700@gmail.com**
+AI/ML Logic: CLIP (Semantic Search), YOLO (Object Detection), LLM Orchestration.
+
+Architecture: Design Systems, Server-Driven UI (SDUI), Atomic Design.
+
+🚀 Featured Work
+
+Exovade UI Core: A production-grade React/TypeScript design system built for complex video intelligence dashboards.
+
+Exovade Dashboard: High-performance video analysis platform featuring semantic search and real-time object tracking.
+
+Zanist: AI-powered knowledge sharing platform for technical documentation.(zanist.xyz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
